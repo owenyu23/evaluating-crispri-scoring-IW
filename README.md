@@ -6,4 +6,4 @@ The off-target enumeration files are hosted on Google Drive due to size:
 The external data/files were downloaded via:
 - ATAC-seq peaks: ENCODE accessions [ENCFF808YMI](https://www.encodeproject.org/files/ENCFF808YMI/) (A549) and [ENCFF068PVP](https://www.encodeproject.org/files/ENCFF068PVP/) (HCT116)
 - CFD matrices: [crisporWebsite](https://github.com/maximilianh/crisporWebsite/tree/master/CFD_Scoring)
-- hg38 index: ([GCF_000001405.39](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.39/))
+- hg38 index: [GCF_000001405.39](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.39/)
