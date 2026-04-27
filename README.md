@@ -1,4 +1,4 @@
-This repo contains a computational pipeline for evaluating how CRISPRi-specific and Chromatin-Aware prediction scores perform across 32,275 gRNAs from the Katsano tiling dataset (Srikanth et al. 2026). The objective is to determine how biological features of the gRNA influence CRISPRi off-target activity.
+This repo contains a computational pipeline for evaluating how CRISPRi-specific and Chromatin-Aware prediction scores perform across 32,275 gRNAs from the Katsano tiling dataset (Srikanth et al. 2026). The objective is to determine how particular biological features influence CRISPRi off-target activity.
 
 The off-target enumeration files are hosted on Google Drive due to size:
 [Download here](https://drive.google.com/drive/folders/1zbbPzJJR8rKzkV5qjtkrciwP6t7mX4jw?usp=drive_link)
